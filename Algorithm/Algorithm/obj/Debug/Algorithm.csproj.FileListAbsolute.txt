@@ -1,0 +1,5 @@
+E:\OpenSource\Algorithm\Algorithm\Algorithm\bin\Debug\Algorithm.exe
+E:\OpenSource\Algorithm\Algorithm\Algorithm\bin\Debug\Algorithm.pdb
+E:\OpenSource\Algorithm\Algorithm\Algorithm\obj\Debug\Algorithm.csprojResolveAssemblyReference.cache
+E:\OpenSource\Algorithm\Algorithm\Algorithm\obj\Debug\Algorithm.exe
+E:\OpenSource\Algorithm\Algorithm\Algorithm\obj\Debug\Algorithm.pdb
